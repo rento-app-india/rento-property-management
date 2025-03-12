@@ -42,7 +42,7 @@
     ```bash
     cd backend
     ```
-    - \rento-property-management\backend>
+    **- \rento-property-management\backend>**
 
     ```bash
     npm install
@@ -55,7 +55,7 @@
     ```bash
     cd ../frontend/landlord
     ```
-    - \rento-property-management\frontend\landlord>
+    **- \rento-property-management\frontend\landlord>**
 
     ```bash
     npm install
@@ -66,7 +66,7 @@
     ```bash
      cd ../tenant
     ```
-    - \rento-property-management\frontend\tenant>
+    **- \rento-property-management\frontend\tenant>**
 
     ```bash
     npm install
