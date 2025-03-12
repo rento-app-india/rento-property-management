@@ -1,0 +1,51 @@
+# Log files
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Dependencies and build directories
+node_modules/
+dist
+dist-ssr
+*.local
+
+# React Native specific
+
+# iOS build artifacts
+ios/build/
+
+# Android build artifacts
+android/app/build/
+
+# Expo files (if using Expo)
+.expo
+.expo-shared
+
+# Environment Variables
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# Editor directories and OS generated files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Temporary files
+*.tmp
+
+# Miscellaneous
+*.cache

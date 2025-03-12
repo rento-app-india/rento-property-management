@@ -1,0 +1,36 @@
+{
+  "name": "rento-property-management-backend",
+  "version": "1.0.0",
+  "description": "A property management application that provides separate interfaces for both landlords and tenants. Through this platform, landlords can manage their properties and tenants can get information about available properties, apply and make payments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rento-app-india/rento-property-management.git"
+  },
+  "keywords": [
+    "property-management-software",
+    "rental-management-system",
+    "landlord-management-app",
+    "tenant-management-platform",
+    "online-rent-collection",
+    "property-maintenance-software",
+    "real-estate-management",
+    "rental-management-solution",
+    "rento-property-management"
+  ],
+  "author": "Bhanu Pratap and Kailash Parihar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rento-app-india/rento-property-management/issues"
+  },
+  "homepage": "https://github.com/rento-app-india/rento-property-management#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

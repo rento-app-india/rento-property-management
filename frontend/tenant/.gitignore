@@ -1,0 +1,21 @@
+# Node Modules
+node_modules/
+
+# React Native specific files
+ios/build/
+android/app/build/
+
+# Expo files (if using Expo)
+.expo
+.expo-shared
+
+# Log files
+*.log
+
+# Environment Variables
+.env
+.env.*.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
